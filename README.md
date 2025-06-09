@@ -37,7 +37,7 @@ Before you begin, make sure you have the following installed on your machine:
 1.  **Clone the Repository**
     Open your terminal and run this command to copy the project to your local machine.
     ```sh
-    git clone [https://github.com/DevOps-Journey-Pro/ridesmart-backend.git](https://github.com/DevOps-Journey-Pro/ridesmart-backend.git)
+    git clone https://github.com/DevOps-Journey-Pro/ridesmart-backend.git
     ```
 
 2.  **Navigate to the Project Directory**
